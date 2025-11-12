@@ -59,4 +59,5 @@ Install the remaining Python dependencies
 pip install numpy transformers peft bitsandbytes accelerate scikit-learn python-dotenv jupyter trl python-dotenv tqdm datasets pandas
 ```
 
-
+## References
+- [Mult-IT: Multiple Choice Questions on Multiple Topics in Italian:A CALAMITA Challenge](https://aclanthology.org/2024.clicit-1.131.pdf)
